@@ -1,0 +1,5 @@
+git clone https://github.com/denilsonbonatti/docker-projeto2-cluster.git
+
+cd .\docker-projeto2-cluster\
+ls
+code .
