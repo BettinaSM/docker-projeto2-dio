@@ -1,0 +1,6 @@
+vagrant up
+
+vagrant ssh master
+
+sudo su -
+docker node ls
